@@ -1,0 +1,15 @@
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\bin\Debug\net6.0\Algebra Relacional e SQL.exe
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\bin\Debug\net6.0\Algebra Relacional e SQL.deps.json
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\bin\Debug\net6.0\Algebra Relacional e SQL.runtimeconfig.json
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\bin\Debug\net6.0\Algebra Relacional e SQL.dll
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\bin\Debug\net6.0\Algebra Relacional e SQL.pdb
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.csproj.AssemblyReference.cache
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.AssemblyInfoInputs.cache
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.AssemblyInfo.cs
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.csproj.CoreCompileInputs.cache
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.dll
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\refint\Algebra Relacional e SQL.dll
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.pdb
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\Algebra Relacional e SQL.genruntimeconfig.cache
+C:\Estágio 2 - CSharp\Algebra Relacional e SQL\Algebra Relacional e SQL\obj\Debug\net6.0\ref\Algebra Relacional e SQL.dll

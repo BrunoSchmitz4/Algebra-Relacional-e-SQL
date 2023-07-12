@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algebra Relacional e SQL/1.0.0": {
+        "runtime": {
+          "Algebra Relacional e SQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algebra Relacional e SQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
